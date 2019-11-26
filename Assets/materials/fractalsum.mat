@@ -138,6 +138,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_41E1FBCE: 0
+    - USE_TURBULENCE: 0
     - Vector1_2EACE06C: 0.13
     - Vector1_493218D3: 0.73
     - _AORemapMax: 1

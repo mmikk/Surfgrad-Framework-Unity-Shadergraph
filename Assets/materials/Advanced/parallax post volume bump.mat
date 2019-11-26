@@ -10,7 +10,7 @@ Material:
   m_Name: parallax post volume bump
   m_Shader: {fileID: -6465566751694194690, guid: 5b711c702dd58244baed4fdcd07aaeea,
     type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: USE_TURBULENCE_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -133,6 +133,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_FD1D2C0A: 1
+    - USE_TURBULENCE: 1
     - Vector1_1E066DAE: 0.0008
     - Vector1_5A174548: 13
     - Vector1_BF16ED7: 0.05
