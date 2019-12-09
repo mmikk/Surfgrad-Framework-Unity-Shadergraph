@@ -2,17 +2,18 @@
     "m_SerializedProperties": [
         {
             "typeInfo": {
-                "fullName": "UnityEditor.ShaderGraph.Vector3ShaderProperty"
+                "fullName": "UnityEditor.ShaderGraph.Internal.Vector3ShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"ceb60aa8-df5f-4e9f-b00c-bbc8d1c349fd\"\n    },\n    \"m_Name\": \"Normal\",\n    \"m_DefaultReferenceName\": \"Vector3_91BE0CBD\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"x\": 0.0,\n        \"y\": 0.0,\n        \"z\": 0.0,\n        \"w\": 0.0\n    }\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"ceb60aa8-df5f-4e9f-b00c-bbc8d1c349fd\"\n    },\n    \"m_Name\": \"Normal\",\n    \"m_DefaultReferenceName\": \"Vector3_91BE0CBD\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"x\": 0.0,\n        \"y\": 0.0,\n        \"z\": 0.0,\n        \"w\": 0.0\n    }\n}"
         },
         {
             "typeInfo": {
-                "fullName": "UnityEditor.ShaderGraph.Vector1ShaderProperty"
+                "fullName": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"38c45581-dce0-4dda-beb6-e57bc472afe4\"\n    },\n    \"m_Name\": \"Blend\",\n    \"m_DefaultReferenceName\": \"Vector1_B257C9EA\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_Hidden\": false,\n    \"m_Value\": 3.0,\n    \"m_FloatType\": 0,\n    \"m_RangeValues\": {\n        \"x\": 0.0,\n        \"y\": 1.0\n    }\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"38c45581-dce0-4dda-beb6-e57bc472afe4\"\n    },\n    \"m_Name\": \"Blend\",\n    \"m_DefaultReferenceName\": \"Vector1_B257C9EA\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": 3.0,\n    \"m_FloatType\": 0,\n    \"m_RangeValues\": {\n        \"x\": 0.0,\n        \"y\": 1.0\n    }\n}"
         }
     ],
+    "m_SerializedKeywords": [],
     "m_SerializableNodes": [
         {
             "typeInfo": {
@@ -88,7 +89,23 @@
         }
     ],
     "m_Groups": [],
-    "m_StickyNotes": [],
+    "m_StickyNotes": [
+        {
+            "m_GuidSerialized": "bd33e4db-6818-4b47-8f70-2c990e37dc2b",
+            "m_Title": "",
+            "m_Content": "The method to compute weights for the triplanar projection comes from www.slideshare.net/icastano/cascades-demo-secrets",
+            "m_TextSize": 0,
+            "m_Theme": 0,
+            "m_Position": {
+                "serializedVersion": "2",
+                "x": -643.0,
+                "y": 179.0,
+                "width": 312.0,
+                "height": 100.0
+            },
+            "m_GroupGuidSerialized": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
     "m_SerializableEdges": [
         {
             "typeInfo": {
