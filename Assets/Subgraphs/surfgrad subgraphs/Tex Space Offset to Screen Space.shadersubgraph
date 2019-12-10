@@ -200,9 +200,9 @@
             "m_Theme": 0,
             "m_Position": {
                 "serializedVersion": "2",
-                "x": -94.0,
+                "x": -109.0,
                 "y": 269.0,
-                "width": 142.0,
+                "width": 156.73947143554688,
                 "height": 100.0
             },
             "m_GroupGuidSerialized": "0d53dcdd-3786-40a0-b668-53bac7ab6743"
