@@ -200,6 +200,21 @@
                 "height": 214.0
             },
             "m_GroupGuidSerialized": "93cd3ef6-6a39-4337-a0f2-4f1aa5668fe1"
+        },
+        {
+            "m_GuidSerialized": "eb43f48f-7cb7-4d3a-a502-756535dcea9e",
+            "m_Title": "WARNING!!",
+            "m_Content": "This feature will not actually work until the PR lands to deliver the final normal in world space rather than tangent space.",
+            "m_TextSize": 0,
+            "m_Theme": 0,
+            "m_Position": {
+                "serializedVersion": "2",
+                "x": 437.0,
+                "y": -894.0,
+                "width": 200.0,
+                "height": 116.0
+            },
+            "m_GroupGuidSerialized": "93cd3ef6-6a39-4337-a0f2-4f1aa5668fe1"
         }
     ],
     "m_SerializableEdges": [
