@@ -185,6 +185,21 @@
                 "height": 160.0
             },
             "m_GroupGuidSerialized": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "m_GuidSerialized": "0ad70409-166b-4a1e-8c4e-178871f5c413",
+            "m_Title": "",
+            "m_Content": "Flipping the normal can also be achieved at the end after Resolve Surfgrad has already produced the normal. This is done by reflecting the final perturbed normal n' by the initial normal n (received by the Normal Vector node):\n\nflippedN = reflect(-n', n)\n\nThis is particularly useful in a graph that uses more than one Resolve Surfgrad. ",
+            "m_TextSize": 0,
+            "m_Theme": 0,
+            "m_Position": {
+                "serializedVersion": "2",
+                "x": 674.0,
+                "y": -893.0,
+                "width": 200.0,
+                "height": 214.0
+            },
+            "m_GroupGuidSerialized": "93cd3ef6-6a39-4337-a0f2-4f1aa5668fe1"
         }
     ],
     "m_SerializableEdges": [
