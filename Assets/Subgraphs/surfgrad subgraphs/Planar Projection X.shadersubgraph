@@ -10,7 +10,7 @@
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.SamplerStateShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"6d644df3-0422-448d-af83-c1ed14ef0b6d\"\n    },\n    \"m_Name\": \"Sampler\",\n    \"m_DefaultReferenceName\": \"\",\n    \"m_OverrideReferenceName\": \"SamplerState_Linear_Repeat\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_filter\": 0,\n        \"m_wrap\": 0\n    }\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"6d644df3-0422-448d-af83-c1ed14ef0b6d\"\n    },\n    \"m_Name\": \"Sampler\",\n    \"m_DefaultReferenceName\": \"\",\n    \"m_OverrideReferenceName\": \"SamplerState_Trilinear_Repeat\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_filter\": 2,\n        \"m_wrap\": 0\n    }\n}"
         },
         {
             "typeInfo": {
