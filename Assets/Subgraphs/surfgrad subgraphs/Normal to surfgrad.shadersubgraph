@@ -96,7 +96,7 @@
         {
             "m_GuidSerialized": "5c920aec-8e8d-4825-ae5e-29186d569bfb",
             "m_Title": "",
-            "m_Content": "This is the inverse of the Resolve Surfgrad subgraph\n",
+            "m_Content": "This is the inverse of the Resolve Surfgrad subgraph.\nNo need to Normalize the input \"Perturbed Normal\".",
             "m_TextSize": 0,
             "m_Theme": 0,
             "m_Position": {

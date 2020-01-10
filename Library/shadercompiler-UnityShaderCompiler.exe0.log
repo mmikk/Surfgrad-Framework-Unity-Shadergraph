@@ -1,2 +1,96 @@
 Base path: 'C:/Program Files/Unity 2019.3.0b4/Editor/Data', plugins path 'C:/Program Files/Unity 2019.3.0b4/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=196788 outsize=6615 ok=1
+Cmd: preprocess
+  insize=3940 outsize=668 ok=1
+Cmd: preprocess
+  insize=3968 outsize=672 ok=1
+Cmd: preprocess
+  insize=6858 outsize=677 ok=1
+Cmd: preprocess
+  insize=20884 outsize=675 ok=1
+Cmd: preprocess
+  insize=19579 outsize=669 ok=1
+Cmd: preprocess
+  insize=24928 outsize=670 ok=1
+Cmd: preprocess
+  insize=19403 outsize=679 ok=1
+Cmd: preprocess
+  insize=23830 outsize=688 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=152412 outsize=6426 ok=1
+Cmd: preprocess
+  insize=3986 outsize=486 ok=1
+Cmd: preprocess
+  insize=3316 outsize=472 ok=1
+Cmd: preprocess
+  insize=10321 outsize=479 ok=1
+Cmd: preprocess
+  insize=3436 outsize=483 ok=1
+Cmd: preprocess
+  insize=12479 outsize=481 ok=1
+Cmd: preprocess
+  insize=11520 outsize=487 ok=1
+Cmd: preprocess
+  insize=10146 outsize=488 ok=1
+Cmd: preprocess
+  insize=7238 outsize=498 ok=1
+
+Quitting shader compiler process
