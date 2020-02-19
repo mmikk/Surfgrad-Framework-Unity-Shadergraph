@@ -65,3 +65,11 @@ The following packages were updated:
   com.unity.shadergraph from version 7.1.2 to 7.1.8
   com.unity.test-framework from version 1.1.1 to 1.1.9
   com.unity.timeline from version 1.2.2 to 1.2.10
+
+=== Wed Feb 19 12:04:32 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.test-framework from version 1.1.9 to 1.1.11
