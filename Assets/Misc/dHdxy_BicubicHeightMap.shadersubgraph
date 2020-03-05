@@ -53,7 +53,23 @@
         }
     ],
     "m_Groups": [],
-    "m_StickyNotes": [],
+    "m_StickyNotes": [
+        {
+            "m_GuidSerialized": "bb75e223-baf4-47dc-9d4e-3875e97ce771",
+            "m_Title": "Bicubic Upscale",
+            "m_Content": "This custom node uses bicubic filtering when a texture is upscaled and regular sampling during mip mapped downscale. It is written for one channel only and is intended for height maps\n\nThe node will also produce the screen-space derivative of the height dHdxy but in a significantly improved quality compared to ddx_fine() and ddy_fine().",
+            "m_TextSize": 0,
+            "m_Theme": 0,
+            "m_Position": {
+                "serializedVersion": "2",
+                "x": -59.0,
+                "y": -188.0,
+                "width": 200.0,
+                "height": 205.0
+            },
+            "m_GroupGuidSerialized": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
     "m_SerializableEdges": [
         {
             "typeInfo": {

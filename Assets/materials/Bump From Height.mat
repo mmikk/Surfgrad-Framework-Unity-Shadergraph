@@ -10,7 +10,7 @@ Material:
   m_Name: Bump From Height
   m_Shader: {fileID: -6465566751694194690, guid: 605e411a9a08e0245abeec5666c65985,
     type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: ENUM_9A5E0F42_BICUBIC_UPSAMPLING
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -113,6 +113,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_754B0EE: 1
+    - ENUM_9A5E0F42: 0
     - Vector1_494E1F9B: 5
     - Vector1_61A83BAC: 0.01
     - _AORemapMax: 1
