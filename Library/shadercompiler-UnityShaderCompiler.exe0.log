@@ -335,228 +335,44 @@ Cmd: preprocess
 Cmd: preprocess
   insize=978051 outsize=16091 ok=1
 Cmd: preprocess
-  insize=806946 outsize=15676 ok=1
+  insize=807232 outsize=15675 ok=1
 Cmd: preprocess
   insize=667254 outsize=15614 ok=1
 Cmd: preprocess
-  insize=897856 outsize=15786 ok=1
+  insize=898722 outsize=15785 ok=1
 Cmd: preprocess
-  insize=824172 outsize=15834 ok=1
+  insize=822489 outsize=15834 ok=1
 Cmd: preprocess
   insize=240938 outsize=8246 ok=1
 Cmd: preprocess
   insize=369913 outsize=10854 ok=1
 Cmd: preprocess
-  insize=1020526 outsize=16314 ok=1
+  insize=1020812 outsize=16315 ok=1
 Cmd: preprocess
-  insize=852062 outsize=16023 ok=1
+  insize=850379 outsize=16023 ok=1
 Cmd: preprocess
   insize=709050 outsize=16132 ok=1
 Cmd: preprocess
-  insize=860591 outsize=15673 ok=1
+  insize=860877 outsize=15672 ok=1
 Cmd: preprocess
   insize=141301 outsize=5284 ok=1
 Cmd: preprocess
   insize=1274221 outsize=16634 ok=1
 Cmd: preprocess
-  insize=741448 outsize=15657 ok=1
+  insize=739765 outsize=15658 ok=1
 Cmd: preprocess
   insize=369620 outsize=10628 ok=1
 Cmd: preprocess
   insize=137926 outsize=5208 ok=1
 Cmd: preprocess
-  insize=906544 outsize=15796 ok=1
+  insize=906830 outsize=15796 ok=1
 Cmd: preprocess
   insize=510697 outsize=13774 ok=1
 Cmd: preprocess
-  insize=783671 outsize=15800 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=12757 outsize=402 kw=SHADOW_MEDIUM USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=12757 outsize=790 kw=SHADOW_MEDIUM USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+  insize=781988 outsize=15800 ok=1
 Cmd: compileSnippet
   api=4 type=0 insize=12757 outsize=402 kw=SHADOW_MEDIUM USE_FPTL_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=12757 outsize=914 kw=SHADOW_MEDIUM USE_FPTL_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1907 outsize=802 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1907 outsize=646 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=237039 outsize=6647 ok=1
-Cmd: preprocess
-  insize=3773 outsize=530 ok=1
-Cmd: preprocess
-  insize=4679 outsize=531 ok=1
-Cmd: preprocess
-  insize=5040 outsize=532 ok=1
-Cmd: preprocess
-  insize=3765 outsize=540 ok=1
-Cmd: preprocess
-  insize=4356 outsize=536 ok=1
-Cmd: preprocess
-  insize=26227 outsize=537 ok=1
-Cmd: preprocess
-  insize=5161 outsize=543 ok=1
-Cmd: preprocess
-  insize=5456 outsize=532 ok=1
-Cmd: preprocess
-  insize=5452 outsize=531 ok=1
-Cmd: preprocess
-  insize=4679 outsize=531 ok=1
-Cmd: preprocess
-  insize=5036 outsize=531 ok=1
-Cmd: preprocess
-  insize=5850 outsize=543 ok=1
-Cmd: preprocess
-  insize=5847 outsize=544 ok=1
-Cmd: preprocess
-  insize=6823 outsize=537 ok=1
-Cmd: preprocess
-  insize=6820 outsize=537 ok=1
-Cmd: preprocess
-  insize=10532 outsize=550 ok=1
-Cmd: preprocess
-  insize=27659 outsize=544 ok=1
-Cmd: preprocess
-  insize=3765 outsize=540 ok=1
-Cmd: preprocess
-  insize=3729 outsize=535 ok=1
-Cmd: preprocess
-  insize=25802 outsize=555 ok=1
-Cmd: preprocess
-  insize=14955 outsize=544 ok=1
-Cmd: preprocess
-  insize=14955 outsize=544 ok=1
-Cmd: preprocess
-  insize=25802 outsize=555 ok=1
-Cmd: preprocess
-  insize=26227 outsize=537 ok=1
-Cmd: preprocess
-  insize=27659 outsize=544 ok=1
-Cmd: preprocess
-  insize=237039 outsize=6647 ok=1
-Cmd: preprocess
-  insize=15006 outsize=544 ok=1
-Cmd: preprocess
-  insize=25853 outsize=555 ok=1
-Cmd: preprocess
-  insize=26278 outsize=537 ok=1
-Cmd: preprocess
-  insize=27710 outsize=544 ok=1
-Cmd: preprocess
-  insize=237192 outsize=6648 ok=1
-Cmd: compileSnippet
-  error: 1 plat 4 at (2465): implicit truncation of vector type\nCompiling Vertex program with DECALS_3RT
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
-  api=4 type=0 insize=77168 outsize=1758 kw=DECALS_3RT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  error: 1 plat 4 at (2465): implicit truncation of vector type\nCompiling Fragment program with DECALS_3RT
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
-  api=4 type=1 insize=77168 outsize=8186 kw=DECALS_3RT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=15016 outsize=544 ok=1
-Cmd: preprocess
-  insize=25863 outsize=555 ok=1
-Cmd: preprocess
-  insize=26288 outsize=537 ok=1
-Cmd: preprocess
-  insize=27720 outsize=543 ok=1
-Cmd: preprocess
-  insize=237222 outsize=6647 ok=1
-Cmd: compileSnippet
-  error: 1 plat 4 at (2465): implicit truncation of vector type\nCompiling Vertex program with DECALS_3RT
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
-  api=4 type=0 insize=77178 outsize=1758 kw=DECALS_3RT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  error: 1 plat 4 at (2465): implicit truncation of vector type\nCompiling Fragment program with DECALS_3RT
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
-  api=4 type=1 insize=77178 outsize=8186 kw=DECALS_3RT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=15016 outsize=544 ok=1
-Cmd: preprocess
-  insize=25863 outsize=555 ok=1
-Cmd: preprocess
-  insize=26288 outsize=537 ok=1
-Cmd: preprocess
-  insize=27720 outsize=543 ok=1
-Cmd: preprocess
-  insize=237222 outsize=6647 ok=1
-Cmd: preprocess
-  insize=15016 outsize=544 ok=1
-Cmd: preprocess
-  insize=25863 outsize=555 ok=1
-Cmd: preprocess
-  insize=26288 outsize=537 ok=1
-Cmd: preprocess
-  insize=27720 outsize=543 ok=1
-Cmd: preprocess
-  insize=237222 outsize=6647 ok=1
-Cmd: preprocess
-  insize=898722 outsize=15785 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=35371 outsize=870 kw=UNITY_PASS_SHADOWCASTER ENUM_9A5E0F42_BICUBIC_UPSAMPLING pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=35371 outsize=142 kw=UNITY_PASS_SHADOWCASTER ENUM_9A5E0F42_BICUBIC_UPSAMPLING pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+  api=4 type=1 insize=12757 outsize=790 kw=SHADOW_MEDIUM USE_FPTL_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
