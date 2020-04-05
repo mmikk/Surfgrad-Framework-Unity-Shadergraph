@@ -90,7 +90,7 @@
         {
             "m_GuidSerialized": "6352d6bd-4a02-48c2-a5ee-74a6aad79b7f",
             "m_Title": "",
-            "m_Content": "Normalize will be removed compile time.",
+            "m_Content": "Normalize will be removed compile time when set to false.",
             "m_TextSize": 0,
             "m_Theme": 0,
             "m_Position": {
