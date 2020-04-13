@@ -1,0 +1,108 @@
+{
+    "m_SerializedProperties": [
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty"
+            },
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"71bb79af-64fb-4a19-8ef1-ee07abbe32bb\"\n    },\n    \"m_Name\": \"Height Map\",\n    \"m_DefaultReferenceName\": \"Texture2D_7CD447F5\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"instanceID\\\":0}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 0\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.ShaderGraph.SamplerStateShaderProperty"
+            },
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"a724f645-e6c7-4325-834e-a5d909e6a1d9\"\n    },\n    \"m_Name\": \"Sampler\",\n    \"m_DefaultReferenceName\": \"\",\n    \"m_OverrideReferenceName\": \"SamplerState_Trilinear_Repeat\",\n    \"m_GeneratePropertyBlock\": false,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_filter\": 2,\n        \"m_wrap\": 0\n    }\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.ShaderGraph.Internal.Vector2ShaderProperty"
+            },
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"5e59272f-b94b-454d-b962-5b8a3d5651f4\"\n    },\n    \"m_Name\": \"st\",\n    \"m_DefaultReferenceName\": \"Vector2_D5613224\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"x\": 0.0,\n        \"y\": 0.0,\n        \"z\": 0.0,\n        \"w\": 0.0\n    }\n}"
+        }
+    ],
+    "m_SerializedKeywords": [],
+    "m_SerializableNodes": [
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.ShaderGraph.SubGraphOutputNode"
+            },
+            "JSONnodeData": "{\n    \"m_GuidSerialized\": \"7d74ad6f-9c8d-4584-89a6-7dd0edb25e94\",\n    \"m_GroupGuidSerialized\": \"00000000-0000-0000-0000-000000000000\",\n    \"m_Name\": \"Output\",\n    \"m_NodeVersion\": 0,\n    \"m_DrawState\": {\n        \"m_Expanded\": true,\n        \"m_Position\": {\n            \"serializedVersion\": \"2\",\n            \"x\": 374.0,\n            \"y\": 81.00000762939453,\n            \"width\": 105.0,\n            \"height\": 101.0\n        }\n    },\n    \"m_SerializableSlots\": [\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.Vector2MaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 2,\\n    \\\"m_DisplayName\\\": \\\"dHdxy\\\",\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"dHdxy\\\",\\n    \\\"m_StageCapability\\\": 3,\\n    \\\"m_Value\\\": {\\n        \\\"x\\\": 0.0,\\n        \\\"y\\\": 0.0\\n    },\\n    \\\"m_DefaultValue\\\": {\\n        \\\"x\\\": 0.0,\\n        \\\"y\\\": 0.0\\n    },\\n    \\\"m_Labels\\\": [\\n        \\\"X\\\",\\n        \\\"Y\\\"\\n    ]\\n}\"\n        }\n    ],\n    \"m_Precision\": 0,\n    \"m_PreviewExpanded\": true,\n    \"m_CustomColors\": {\n        \"m_SerializableColors\": []\n    }\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.ShaderGraph.CustomFunctionNode"
+            },
+            "JSONnodeData": "{\n    \"m_GuidSerialized\": \"dabee2de-d811-48aa-9083-29c8f1a93412\",\n    \"m_GroupGuidSerialized\": \"00000000-0000-0000-0000-000000000000\",\n    \"m_Name\": \"Custom Function\",\n    \"m_NodeVersion\": 0,\n    \"m_DrawState\": {\n        \"m_Expanded\": true,\n        \"m_Position\": {\n            \"serializedVersion\": \"2\",\n            \"x\": -63.0,\n            \"y\": 37.0,\n            \"width\": 195.0,\n            \"height\": 142.0\n        }\n    },\n    \"m_SerializableSlots\": [\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.Texture2DInputMaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 0,\\n    \\\"m_DisplayName\\\": \\\"Texture\\\",\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"Texture\\\",\\n    \\\"m_StageCapability\\\": 3,\\n    \\\"m_Texture\\\": {\\n        \\\"m_SerializedTexture\\\": \\\"{\\\\\\\"texture\\\\\\\":{\\\\\\\"instanceID\\\\\\\":0}}\\\",\\n        \\\"m_Guid\\\": \\\"\\\"\\n    },\\n    \\\"m_DefaultType\\\": 0\\n}\"\n        },\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.SamplerStateMaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 1,\\n    \\\"m_DisplayName\\\": \\\"Sampler\\\",\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"Sampler\\\",\\n    \\\"m_StageCapability\\\": 3\\n}\"\n        },\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.Vector2MaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 2,\\n    \\\"m_DisplayName\\\": \\\"st\\\",\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"st\\\",\\n    \\\"m_StageCapability\\\": 3,\\n    \\\"m_Value\\\": {\\n        \\\"x\\\": 0.0,\\n        \\\"y\\\": 0.0\\n    },\\n    \\\"m_DefaultValue\\\": {\\n        \\\"x\\\": 0.0,\\n        \\\"y\\\": 0.0\\n    },\\n    \\\"m_Labels\\\": [\\n        \\\"X\\\",\\n        \\\"Y\\\"\\n    ]\\n}\"\n        },\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.Vector2MaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 4,\\n    \\\"m_DisplayName\\\": \\\"dHdxy\\\",\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"dHdxy\\\",\\n    \\\"m_StageCapability\\\": 3,\\n    \\\"m_Value\\\": {\\n        \\\"x\\\": 0.0,\\n        \\\"y\\\": 0.0\\n    },\\n    \\\"m_DefaultValue\\\": {\\n        \\\"x\\\": 0.0,\\n        \\\"y\\\": 0.0\\n    },\\n    \\\"m_Labels\\\": [\\n        \\\"X\\\",\\n        \\\"Y\\\"\\n    ]\\n}\"\n        }\n    ],\n    \"m_Precision\": 0,\n    \"m_PreviewExpanded\": false,\n    \"m_CustomColors\": {\n        \"m_SerializableColors\": []\n    },\n    \"m_SourceType\": 1,\n    \"m_FunctionName\": \"dHdxy_mipped_smooth\",\n    \"m_FunctionSource\": \"\",\n    \"m_FunctionBody\": \"#if SHADERGRAPH_PREVIEW\\r\\n\\tfloat lod = 0.0;\\r\\n#else\\r\\n\\tfloat lod = Texture.CalculateLevelOfDetailUnclamped(Sampler, st);\\r\\n#endif\\r\\n\\t\\r\\n\\tfloat2 dSTdx = ddx(st);\\r\\n\\tfloat2 dSTdy = ddy(st);\\r\\n\\t\\r\\n\\tfloat height = Texture.Sample(Sampler, st).x;\\r\\n\\tfloat Hr = Texture.Sample(Sampler, st+dSTdx).x;\\r\\n\\tfloat Hu = Texture.Sample(Sampler, st+dSTdy).x;\\r\\n\\t\\r\\n\\tdHdxy = float2(Hr-height, Hu-height);\\r\\n\\t\\r\\n#if SHADERGRAPH_PREVIEW\\r\\n#else\\r\\n\\tfloat start = 0.5;\\t\\t// bicubic fades in\\r\\n\\tfloat end = 0.05;\\t\\t// 100% bicubic\\r\\n\\t\\r\\n\\tfloat mix = saturate( (lod-start) / (end - start) );\\r\\n\\t\\r\\n\\tif(mix>0.0)\\r\\n\\t{\\r\\n\\t\\tuint2 dimension;\\r\\n\\t\\tTexture.GetDimensions(dimension.x, dimension.y);\\r\\n\\r\\n\\t\\tfloat2 f2TexCoord = dimension*st-float2(0.5,0.5);\\r\\n\\t\\tfloat2 f2FlTexCoord = floor(f2TexCoord);\\r\\n\\t\\tfloat2 t = saturate(f2TexCoord - f2FlTexCoord);\\r\\n\\r\\n\\t\\tconst float4 vSamplesUL = Texture.Gather( Sampler, (f2FlTexCoord+float2(-1.0,-1.0) + float2(0.5,0.5))/dimension );\\r\\n\\t\\tconst float4 vSamplesUR = Texture.Gather( Sampler, (f2FlTexCoord+float2(1.0,-1.0) + float2(0.5,0.5))/dimension );\\r\\n\\t\\tconst float4 vSamplesLL = Texture.Gather( Sampler, (f2FlTexCoord+float2(-1.0,1.0) + float2(0.5,0.5))/dimension );\\r\\n\\t\\tconst float4 vSamplesLR = Texture.Gather( Sampler, (f2FlTexCoord+float2(1.0,1.0) + float2(0.5,0.5))/dimension );\\r\\n\\t\\t\\r\\n\\t\\t// scanlines are given in the horizontal direction. For instance float4(UL.wz, UR.wz) represents a scanline\\r\\n\\tfloat4x4 H = {  vSamplesUL.w, vSamplesUL.z, vSamplesUR.w, vSamplesUR.z,\\r\\n\\t\\t\\t\\t\\tvSamplesUL.x, vSamplesUL.y, vSamplesUR.x, vSamplesUR.y,\\r\\n\\t\\t\\t\\t\\tvSamplesLL.w, vSamplesLL.z, vSamplesLR.w, vSamplesLR.z,\\r\\n\\t\\t\\t\\t\\tvSamplesLL.x, vSamplesLL.y, vSamplesLR.x, vSamplesLR.y };\\r\\n#if 1\\n\\t\\tfloat2 A = float2((1.0-t.x), t.x);\\r\\n\\t\\tfloat2 B = float2((1.0-t.y), t.y);\\r\\n\\r\\n\\t\\t//float4x2 diffMat = 0.5 * float4x2( float2(-1.0, 0.0), float2(0.0, -1.0), float2(1.0, 0.0), float2(0.0, 1.0) );\\r\\n\\t\\t//float2x4 blurMat = 0.25 * float2x4( float4(1.0, 2.0, 1.0, 0.0), float4(0.0, 1.0, 2.0, 1.0) );\\r\\n\\t\\t//float2x2 matdHdu = mul(blurMat, mul( H, diffMat));\\r\\n\\t\\t//float2x2 matdHdv = mul(blurMat, mul( transpose(H), diffMat));\\r\\n\\t\\t//float2 dHduv = float2( dot(B, mul( matdHdu, A)), dot(A, mul( matdHdv, B)) );\\r\\n\\r\\n\\t\\tfloat4 X = 0.25*float4(A.x, 2*A.x+A.y, A.x+2*A.y, A.y);\\t\\t\\t\\t//\\tmul(A, blurMat);\\r\\n\\t\\tfloat4 Y = 0.25*float4(B.x, 2*B.x+B.y, B.x+2*B.y, B.y);\\t\\t\\t\\t//\\tmul(B, blurMat);\\r\\n\\t\\tfloat4 dX = 0.5*float4(-A.x, -A.y, A.x, A.y);\\t\\t\\t\\t\\t\\t//  mul(diffMat, A);\\r\\n\\t\\tfloat4 dY = 0.5*float4(-B.x, -B.y, B.x, B.y);\\t\\t\\t\\t\\t\\t//  mul(diffMat, B);\\r\\n\\r\\n\\t\\t//float2 dHduv = float2( dot(Y, mul( H, dX)), dot(X, mul( transpose(H), dY)) );\\r\\n#else\\r\\n\\t\\t// generate the derivatives from a bicubic signal\\r\\n\\t\\t// The entries h_ij are arranged such that j and i reference columns and rows respectively.\\r\\n\\t\\t// Thus a varying j represents the x direction and i represents the y direction.\\r\\n\\t\\t\\t\\t\\t\\r\\n\\t\\t//\\t\\t\\t\\t\\t\\t\\t [-0.5\\t1.5\\t\\t-1.5\\t0.5\\t][h00\\t h01\\t h02\\t h03][-0.5     1   -0.5\\t\\t0]   [x3]\\r\\n\\t\\t//\\t\\t\\t\\t\\t\\t\\t [1\\t\\t-2.5\\t2\\t\\t-0.5][h10\\t h11\\t h12\\t h13][1.5 \\t-2.5\\t 0\\t\\t1]   [x2]\\r\\n\\t\\t// B(x,y) = [y3  y2  y  1] * [-0.5\\t0\\t\\t0.5\\t\\t0\\t][h20\\t h21\\t h22\\t h23][-1.5\\t   2\\t0.5\\t\\t0] * [ x]\\r\\n\\t\\t//\\t\\t\\t\\t\\t\\t\\t [0\\t\\t1\\t\\t0\\t\\t0\\t][h30\\t h31\\t h32\\t h33][0.5 \\t-0.5\\t 0\\t\\t0]   [ 1]\\r\\n\\t\\t//\\r\\n\\t\\t//\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t   [h00\\t\\t h01\\t h02\\t h03]\\t[-0.5*(x3+x) + x2\\t\\t]\\r\\n\\t\\t//\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t   [h10\\t\\t h11\\t h12\\t h13]\\t[1.5*x3 - 2.5*x2 + 1\\t]\\r\\n\\t\\t//\\t\\t  = [-0.5*(y3+y)+y2\\t\\t1.5*y3-2.5*y2+1\\t\\t-1.5*y3+2*y2+0.5*y\\t\\t0.5*(y3-y2)] * [h20\\t\\t h21\\t h22\\t h23] * [-1.5*x3 + 2*x2 + 0.5*x ]\\r\\n\\t\\t//\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t   [h30\\t\\t h31\\t h32\\t h33]\\t[0.5*(x3-x2)\\t\\t\\t]\\r\\n\\t\\t//\\r\\n\\t\\t// Finally, we transform from the domain of the texture to the screen-space domain using the chain rule.\\r\\n\\r\\n\\t\\tfloat x = t.x, y = t.y;\\r\\n\\t\\tfloat x2 = x * x, x3 = x2 * x;\\r\\n\\t\\tfloat y2 = y * y, y3 = y2 * y;\\r\\n\\r\\n\\t\\tfloat4 X = float4(-0.5*(x3+x)+x2,\\t\\t1.5*x3-2.5*x2+1,\\t\\t-1.5*x3+2*x2+0.5*x,\\t\\t0.5*(x3-x2));\\r\\n\\t\\tfloat4 Y = float4(-0.5*(y3+y)+y2,\\t\\t1.5*y3-2.5*y2+1,\\t\\t-1.5*y3+2*y2+0.5*y,\\t\\t0.5*(y3-y2));\\r\\n\\t\\tfloat4 dX = float4(-1.5*x2+2*x-0.5,\\t\\t4.5*x2-5*x,\\t\\t\\t\\t-4.5*x2+4*x+0.5,\\t\\t1.5*x2-x);\\r\\n\\t\\tfloat4 dY = float4(-1.5*y2+2*y-0.5,\\t\\t4.5*y2-5*y,\\t\\t\\t\\t-4.5*y2+4*y+0.5,\\t\\t1.5*y2-y);\\r\\n\\r\\n\\t\\tfloat height_bic = dot(Y, mul(H, X));\\r\\n\\t\\theight = lerp(height, height_bic, mix);\\r\\n#endif\\t\\t\\t\\t\\r\\n\\t\\t// We scale by vDim to obtain the derivative w.r.t. the normalized texture domain [0;1]^2\\r\\n\\t\\tfloat2 dHdST = dimension * float2( dot(Y, mul(H, dX)), dot(dY, mul(H, X)) );\\r\\n\\t\\t\\r\\n\\t\\t// domain change to screen space using the chain rule.\\r\\n\\t\\tfloat2 dHdxy_smooth = float2( dot(dHdST.xy, dSTdx.xy), dot(dHdST.xy, dSTdy.xy) );\\r\\n\\t\\t\\r\\n\\t\\tdHdxy = lerp(dHdxy, dHdxy_smooth, mix);\\n\\t}\\r\\n#endif\"\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.ShaderGraph.PropertyNode"
+            },
+            "JSONnodeData": "{\n    \"m_GuidSerialized\": \"bf17f0fa-6ca3-4dba-9b7b-6e4987e382dd\",\n    \"m_GroupGuidSerialized\": \"00000000-0000-0000-0000-000000000000\",\n    \"m_Name\": \"Property\",\n    \"m_NodeVersion\": 0,\n    \"m_DrawState\": {\n        \"m_Expanded\": true,\n        \"m_Position\": {\n            \"serializedVersion\": \"2\",\n            \"x\": -347.0,\n            \"y\": -2.0,\n            \"width\": 149.0,\n            \"height\": 34.0\n        }\n    },\n    \"m_SerializableSlots\": [\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.Texture2DMaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 0,\\n    \\\"m_DisplayName\\\": \\\"Height Map\\\",\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"Out\\\",\\n    \\\"m_StageCapability\\\": 3\\n}\"\n        }\n    ],\n    \"m_Precision\": 0,\n    \"m_PreviewExpanded\": true,\n    \"m_CustomColors\": {\n        \"m_SerializableColors\": []\n    },\n    \"m_PropertyGuidSerialized\": \"71bb79af-64fb-4a19-8ef1-ee07abbe32bb\"\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.ShaderGraph.PropertyNode"
+            },
+            "JSONnodeData": "{\n    \"m_GuidSerialized\": \"9908d322-96c8-4d62-87f9-eec35fafafcb\",\n    \"m_GroupGuidSerialized\": \"00000000-0000-0000-0000-000000000000\",\n    \"m_Name\": \"Property\",\n    \"m_NodeVersion\": 0,\n    \"m_DrawState\": {\n        \"m_Expanded\": true,\n        \"m_Position\": {\n            \"serializedVersion\": \"2\",\n            \"x\": -284.0,\n            \"y\": 95.0,\n            \"width\": 132.0,\n            \"height\": 34.0\n        }\n    },\n    \"m_SerializableSlots\": [\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.SamplerStateMaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 0,\\n    \\\"m_DisplayName\\\": \\\"Sampler\\\",\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"Out\\\",\\n    \\\"m_StageCapability\\\": 3\\n}\"\n        }\n    ],\n    \"m_Precision\": 0,\n    \"m_PreviewExpanded\": true,\n    \"m_CustomColors\": {\n        \"m_SerializableColors\": []\n    },\n    \"m_PropertyGuidSerialized\": \"a724f645-e6c7-4325-834e-a5d909e6a1d9\"\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.ShaderGraph.PropertyNode"
+            },
+            "JSONnodeData": "{\n    \"m_GuidSerialized\": \"c288e824-815d-470c-ae04-727578497fb5\",\n    \"m_GroupGuidSerialized\": \"00000000-0000-0000-0000-000000000000\",\n    \"m_Name\": \"Property\",\n    \"m_NodeVersion\": 0,\n    \"m_DrawState\": {\n        \"m_Expanded\": true,\n        \"m_Position\": {\n            \"serializedVersion\": \"2\",\n            \"x\": -270.0,\n            \"y\": 175.0,\n            \"width\": 89.0,\n            \"height\": 34.0\n        }\n    },\n    \"m_SerializableSlots\": [\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.Vector2MaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 0,\\n    \\\"m_DisplayName\\\": \\\"st\\\",\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"Out\\\",\\n    \\\"m_StageCapability\\\": 3,\\n    \\\"m_Value\\\": {\\n        \\\"x\\\": 0.0,\\n        \\\"y\\\": 0.0\\n    },\\n    \\\"m_DefaultValue\\\": {\\n        \\\"x\\\": 0.0,\\n        \\\"y\\\": 0.0\\n    },\\n    \\\"m_Labels\\\": [\\n        \\\"X\\\",\\n        \\\"Y\\\"\\n    ]\\n}\"\n        }\n    ],\n    \"m_Precision\": 0,\n    \"m_PreviewExpanded\": true,\n    \"m_CustomColors\": {\n        \"m_SerializableColors\": []\n    },\n    \"m_PropertyGuidSerialized\": \"5e59272f-b94b-454d-b962-5b8a3d5651f4\"\n}"
+        }
+    ],
+    "m_Groups": [],
+    "m_StickyNotes": [
+        {
+            "m_GuidSerialized": "bb75e223-baf4-47dc-9d4e-3875e97ce771",
+            "m_Title": "Smooth Upscale",
+            "m_Content": "This custom node uses custom\nfiltering when a texture is upscaled and regular sampling during mip mapped downscale. It is written for one channel only and is intended for height maps\n\nThe node will also produce the screen-space derivative of the height dHdxy but in a significantly improved quality compared to ddx_fine() and ddy_fine().",
+            "m_TextSize": 0,
+            "m_Theme": 0,
+            "m_Position": {
+                "serializedVersion": "2",
+                "x": -59.0,
+                "y": -188.0,
+                "width": 200.0,
+                "height": 205.0
+            },
+            "m_GroupGuidSerialized": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
+    "m_SerializableEdges": [
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.Graphing.Edge"
+            },
+            "JSONnodeData": "{\n    \"m_OutputSlot\": {\n        \"m_SlotId\": 0,\n        \"m_NodeGUIDSerialized\": \"bf17f0fa-6ca3-4dba-9b7b-6e4987e382dd\"\n    },\n    \"m_InputSlot\": {\n        \"m_SlotId\": 0,\n        \"m_NodeGUIDSerialized\": \"dabee2de-d811-48aa-9083-29c8f1a93412\"\n    }\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.Graphing.Edge"
+            },
+            "JSONnodeData": "{\n    \"m_OutputSlot\": {\n        \"m_SlotId\": 0,\n        \"m_NodeGUIDSerialized\": \"9908d322-96c8-4d62-87f9-eec35fafafcb\"\n    },\n    \"m_InputSlot\": {\n        \"m_SlotId\": 1,\n        \"m_NodeGUIDSerialized\": \"dabee2de-d811-48aa-9083-29c8f1a93412\"\n    }\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.Graphing.Edge"
+            },
+            "JSONnodeData": "{\n    \"m_OutputSlot\": {\n        \"m_SlotId\": 0,\n        \"m_NodeGUIDSerialized\": \"c288e824-815d-470c-ae04-727578497fb5\"\n    },\n    \"m_InputSlot\": {\n        \"m_SlotId\": 2,\n        \"m_NodeGUIDSerialized\": \"dabee2de-d811-48aa-9083-29c8f1a93412\"\n    }\n}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "UnityEditor.Graphing.Edge"
+            },
+            "JSONnodeData": "{\n    \"m_OutputSlot\": {\n        \"m_SlotId\": 4,\n        \"m_NodeGUIDSerialized\": \"dabee2de-d811-48aa-9083-29c8f1a93412\"\n    },\n    \"m_InputSlot\": {\n        \"m_SlotId\": 2,\n        \"m_NodeGUIDSerialized\": \"7d74ad6f-9c8d-4584-89a6-7dd0edb25e94\"\n    }\n}"
+        }
+    ],
+    "m_PreviewData": {
+        "serializedMesh": {
+            "m_SerializedMesh": "{\"mesh\":{\"instanceID\":0}}",
+            "m_Guid": ""
+        }
+    },
+    "m_Path": "Misc Utils",
+    "m_ConcretePrecision": 0,
+    "m_ActiveOutputNodeGuidSerialized": ""
+}
