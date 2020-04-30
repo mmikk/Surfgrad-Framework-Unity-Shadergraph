@@ -10,7 +10,7 @@ Material:
   m_Name: Show Height Map To Normal TS
   m_Shader: {fileID: -6465566751694194690, guid: 3e4ec5eac4cfcae4cbf177f7a766b646,
     type: 3}
-  m_ShaderKeywords: ENUM_A5CF479C_SHOW_NORMAL_FROM_HEIGHT_MAP
+  m_ShaderKeywords: ENUM_AD4C0FA1_SMOOTH_UPSAMPLING
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -128,6 +128,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - ENUM_A5CF479C: 0
+    - ENUM_AD4C0FA1: 0
     - Vector1_65CB67A4: 0.003
     - Vector1_BA424B16: 5
     - Vector1_CE9281CD: 1
